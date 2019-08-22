@@ -1,4 +1,4 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "/Users/liuya/anaconda3/envs/udccoin/bin/python"
 }
