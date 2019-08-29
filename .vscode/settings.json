@@ -1,4 +1,5 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "/Users/liuya/anaconda3/envs/udccoin/bin/python"
+    "python.pythonPath": "/Users/liuya/anaconda3/envs/udccoin/bin/python",
+    "python.linting.pep8Enabled": true
 }
